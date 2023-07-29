@@ -22,3 +22,4 @@ const actualAmount = amount - discountAmount;
 
 console.log(`The actual amount after discount is $${actualAmount} discount is $${discount} discountAmount is $${discountAmount}`);
 
+// 

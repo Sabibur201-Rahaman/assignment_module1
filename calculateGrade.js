@@ -20,3 +20,4 @@ function gradeCalculate(score){
 }
 
 console.log (`The grade is ${gradeCalculate(75)}`)
+// 
